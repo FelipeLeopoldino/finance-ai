@@ -60,7 +60,7 @@ const TransactionsPieCharts = ({
   ];
 
   return (
-    <Card className="flex flex-col p-2">
+    <Card className="flex flex-col p-6">
       <CardContent className="flex-1">
         <ChartContainer
           config={chartConfig}
